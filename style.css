@@ -1,0 +1,68 @@
+body{
+  font-family: 'Roboto', sans-serif;
+  background-color: rgb(197, 197, 197);
+  font-size: 16px;
+  color: black;
+}
+
+h1{
+  line-height: 1.5;
+  font-size: 22px;
+}
+h2{
+  line-height: 1;
+  font-size: 18px;
+}
+#first_button:hover{
+  background-color: #b2f565 ;
+  transition: 0.2s;
+}
+
+.image_circle{
+  border-radius: 50%;
+}
+.btn-blue {
+  text-decoration: none;
+  background-color: #b160c1;
+  padding: 16px 20px;
+  color: rgba(63, 9, 9, 0.974);
+  border-radius: 5px;
+  border: 1px solid rgba(63, 9, 9, .5);
+  margin: 50px;
+  }
+
+  #first_button{
+  text-decoration: none;
+  background-color: #c69ece;
+  padding: 16px 20px;
+  color: rgba(63, 9, 9, 0.974);
+  border-radius: 5px;
+  border: 1px solid rgba(63, 9, 9, .10);
+  margin: 10px;
+  }
+
+.card{
+  border: 1px solid rgba(63, 9, 9, .10);
+  margin: 20px auto;
+  padding: 10px auto;
+  background-color: rgb(234, 226, 233);
+  width: 500px;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.562);
+}
+
+.firstcard{
+  border: 1px solid rgba(63, 9, 9, .10);
+  margin: 20px auto;
+  padding: 10px 10px 20px 10px;
+  background-color: rgb(234, 226, 233);
+  width: 500px;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.637);
+}
+.text-center{
+  text-align: center;
+}
+
+.teammates:hover{
+  color: #8b4998 ;
+  transition: 0.2s;
+}
